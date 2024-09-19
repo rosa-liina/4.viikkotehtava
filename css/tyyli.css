@@ -1,0 +1,10 @@
+div#container {
+    background-color: bisque;
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+    text-align: center;
+}
